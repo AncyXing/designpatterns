@@ -1,4 +1,4 @@
-package com.ancyxing.designpatterns;
+package com.ancyxing.designpatterns.builderpatterns.usepatterns.simpleimpl;
 
 import java.math.BigDecimal;
 
@@ -7,7 +7,7 @@ import java.math.BigDecimal;
  */
 public class Director {
     Builder builder;
-    Director(Builder builder) {
+    public Director(Builder builder) {
         this.builder = builder;
     }
 
