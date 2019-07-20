@@ -1,6 +1,7 @@
 package com.ancyxing.designpatterns.builderpatterns.usepatterns.compleximpl;
 
 /**
+ * 用于构造复杂对象
  * @author yangxing
  * @date 2019/7/18
  */
