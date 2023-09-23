@@ -1,23 +1,29 @@
 # designpatterns
 设计模式使用java代码举例实现
+- [类的关系](#----)
+    * [六种关系](#----)
+    * [组合与聚合的区别](#--------)
+    * [关联和聚合的区别](#--------)
+    * [依赖和关联的区别](#--------)
+  
 
 ## 类的关系
 
 ### 六种关系
 
-![image](https://jsd.cdn.zzko.cn/gh/AncyXing/picx-images-hosting@master/20230923/image.47175wtj4cs0.webp)
+![image](https://github.com/AncyXing/picx-images-hosting/raw/master/20230923/image.47175wtj4cs0.webp)
 
 ### 组合与聚合的区别
 
-![image](https://jsd.cdn.zzko.cn/gh/AncyXing/picx-images-hosting@master/20230923/image.chempfasc7c.webp)
+![image](https://github.com/AncyXing/picx-images-hosting/raw/master/20230923/image.chempfasc7c.webp)
 
 ### 关联和聚合的区别
 
-![image](https://jsd.cdn.zzko.cn/gh/AncyXing/picx-images-hosting@master/20230923/image.4hs2b1n5ghs0.webp)
+![image](https://github.com/AncyXing/picx-images-hosting/raw/master/20230923/image.4hs2b1n5ghs0.webp)
 
 ### 依赖和关联的区别
 
-![image](https://jsd.cdn.zzko.cn/gh/AncyXing/picx-images-hosting@master/20230923/image.20ffwtg53340.webp)
+![image](https://github.com/AncyXing/picx-images-hosting/raw/master/20230923/image.20ffwtg53340.webp)
 
 ## 行为型
 ### 中介者模式
